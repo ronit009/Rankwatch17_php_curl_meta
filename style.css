@@ -1,0 +1,16 @@
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 19px;
+	color: #000;
+	background-color: azure;
+}
+#header{
+	height: 78px; width: 100%;background: #4d5b76;
+	font-size:30%;
+}
+.container{
+width: 630px; height: auto; margin: 0 auto;
+}
+.center{width: 600px; height: auto;}	
+.input{ width: :200px;}
